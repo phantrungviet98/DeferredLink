@@ -1,0 +1,16 @@
+.custom-link-input {
+    line-height: 32px;
+    background: red;
+    margin-top: 12px;
+    color: red;
+    position: relative;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 12px;
+}
+.button {
+    margin-top:  12px;
+}
